@@ -1,0 +1,9 @@
+#right-panel{width: 82%;}
+.header-menu .search{visibility: hidden;}
+
+.user-area .show div{
+    position: absolute;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    top: 45px!important;
+}
+.user-area .show div a a {color: #272c33;}
